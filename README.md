@@ -3,7 +3,7 @@
 Erstellen Sie eine Klasse **Mitarbeiter** mit folgenden Attributen
 
 1. Name, Vorname, Geburtsjahr
-2. Mitarbeiternummer, Abteilung, Job
+2. Mitarbeiternummer, Abteilung, Job, Jahr der Einstellung
 
 - Implementieren Sie die Attribute unter 1. als private und erstellen Sie ggf. geeignete Getter/Setter-Methoden.
 - Implementieren Sie zwei öffentliche Methoden hasLunch() & startsWork() die für alle Instanzen gelten sollen.

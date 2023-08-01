@@ -35,7 +35,7 @@ public class MA{
 	
 	//-----------------  Methoden Getter / Setter --------------//	
 
-	 public String getFamilyName() {
+	public String getFamilyName() {
 		return familyName;
 	}
 

@@ -14,19 +14,22 @@ public class App {
       output(ma1.hasLunch());
       output(ma1.getEmployedTime());
       output(ma1.doYourWork());
-
+      output(ma1.getPersonalData());
+      
 
       output("------- MA 2 --------------");	
       output(ma2.startsWork());
       output(ma2.hasLunch());
       output(ma2.getEmployedTime());
       output(ma2.doYourWork());
+      output(ma2.getPersonalData());
 
       output("------- MA 3 --------------");	
       output(ma3.startsWork());
       output(ma3.hasLunch());
       output(ma3.getEmployedTime());
       output(ma3.doYourWork());
+      output(ma3.getPersonalData());
       
     }
     

@@ -29,7 +29,8 @@ public class App {
       output(ma3.doYourWork());
       
     }
-  
+    
+
     private static void output(String outStr) {
         System.out.println(outStr);
     }
